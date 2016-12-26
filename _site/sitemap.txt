@@ -1,0 +1,8 @@
+
+http://jpfdesign.org//atom.xml
+http://jpfdesign.org//members/
+http://jpfdesign.org//
+http://jpfdesign.org//rss.xml
+http://jpfdesign.org//sitemap.txt
+
+http://jpfdesign.org//lessons/2011/12/29/jekyll-introduction/

@@ -1,0 +1,5 @@
+---
+- name: John Doe
+  position: Co-founder
+  image: johndoe.png
+  g:  0
